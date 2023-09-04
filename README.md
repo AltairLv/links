@@ -10,7 +10,7 @@ Putting everything you create and share in one beautifully designed link.
 
 ## Getting Started
 
-Requires Node.js version 16.14+.
+Requires Node.js 16.14+ version.
 
 ```bash
   git clone https://github.com/altairlv/links.git
